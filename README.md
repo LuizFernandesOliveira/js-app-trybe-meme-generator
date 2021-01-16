@@ -7,4 +7,4 @@ na [Trybe](https://www.betrybe.com/?utm_source=trybe.com.br).
 
 ## screenshots
 
-<img src="https://js-app-trybe-meme-generator.netlify.app/imags/screenshot/01_shot.png" width="600px">
+<img src="https://js-app-trybe-meme-generator.netlify.app/imgs/screenshot/01_shot.png" width="600px">
